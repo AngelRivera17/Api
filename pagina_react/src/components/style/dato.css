@@ -1,0 +1,12 @@
+.dato{
+    display: flex;
+    flex-direction: column;
+    background-color: #add8e6; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url("../image/contenedor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -1,0 +1,40 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-image: url("../image/contenedor.jpg");
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: #add8e6; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url("../image/formulario.jpg");
+}
+
+.separador{
+    margin-bottom: 15px;
+}
+
+.separadorBoton{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.input{
+    height: 20px;
+    border-radius: 20%;
+    text-align: center;
+}
+
+.inputDes{
+    height: 60px;
+    border-radius: 20%;
+    text-align: center;
+}

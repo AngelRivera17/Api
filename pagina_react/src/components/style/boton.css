@@ -1,0 +1,17 @@
+.boton{
+    width: 210px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.conteBo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../image/contenedor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
